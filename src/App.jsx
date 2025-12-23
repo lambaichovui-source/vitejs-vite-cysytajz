@@ -263,7 +263,7 @@ export default function IonmManager() {
             IONM Status Tracker
           </h2>
           <p className="text-center text-gray-500 text-xs mt-2">
-            Source: Supabase DB
+            Created by: It's Me
           </p>
         </div>
         <div className="mt-8 sm:mx-auto sm:w-full sm:max-w-md bg-white py-8 px-4 shadow sm:rounded-lg sm:px-10 space-y-6">
