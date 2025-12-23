@@ -17,7 +17,7 @@ import {
 // --- CONSTANTS ---
 
 const STATUS_OPTIONS = [
-  { id: 'case_called', label: 'Case Called', color: 'bg-indigo-100' },
+  { id: 'case_called', label: 'Case Called', color: 'bg-amber-100' },
   { id: 'prep', label: 'Preparation', color: 'bg-yellow-100' },
   { id: 'setup_done', label: 'Setup Done', color: 'bg-orange-100' },
   { id: 'begin', label: 'Begin Monitoring', color: 'bg-green-100' },
